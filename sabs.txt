@@ -204,3 +204,4 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2FTelegra
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?path=%2F--%40V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha&security=&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#Telegram%3A%20%40v2node ### 1767688020599
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3D2560%26Telegram%40V2rayAlpha&security=tls&encryption=none&host=sni.111000.dns.army&type=ws&sni=sni.111000.dns.army#Telegram%3A%20%40v2node ### 1767688020599
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?path=%2F%3Fed%3D2560%26Telegram%40V2rayAlpha&security=tls&encryption=none&host=sni.111000.v6.rocks&type=ws&sni=sni.111000.v6.rocks#Telegram%3A%20%40v2node ### 1767688020599
+vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&encryption=none&host=cafebazar.com&headerType=http&type=tcp#ParsVpn ### 1767688521305
