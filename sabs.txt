@@ -216,10 +216,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw@
 vless://3133dad5-f57d-473a-9891-a2b4c7f8817b@89.44.242.249:9929?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#BESTIIVPNBOT ### 1767771344059
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDenR3eTM0QjA3ZXFONkg0WW9QR1ha@93.183.94.163:32609#BESTIIVPNBOT ### 1767771344059
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#BESTIIVPNBOT ### 1767771344059
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#BESTIIVPNBOT ### 1767773424506
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#BESTIIVPNBOT ### 1767773424506
-trojan://vwhoUdVRNtFBKstJd1gpuA@64.225.93.183:7391?security=none&amp;headerType=none&amp;type=tcp#BESTIIVPNBOT ### 1767773424506
-trojan://vwhoUdVRNtFBKstJd1gpuA@64.225.81.161:7393?security=none&amp;headerType=none&amp;type=tcp#BESTIIVPNBOT ### 1767773424506
-vless://fd8f0b4c-ae63-4328-808d-10a4fe2688ab@dnlns2.tracketbot.ir:8459?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#BESTIIVPNBOT ### 1767773424506
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=8j3f7HD37h.PaGES.dEV#BESTIIVPNBOT ### 1767773424506
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=8j3f7HD37h.PaGES.dEV#BESTIIVPNBOT ### 1767773424506
+vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@87.236.38.164:8016?security=none&amp;encryption=none&amp;host=%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed%3D2560&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AEV2WRAY%F0%93%84%82%F0%93%86%83{} ### 1767773425854
