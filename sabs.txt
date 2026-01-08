@@ -317,3 +317,4 @@ vless://3e2a71d0-7b44-426d-9471-2e917a3024c5@gm.germany-14.com:443?security=real
 vless://3e2a71d0-7b44-426d-9471-2e917a3024c5@speedtest.net:80?path=%2Fwss%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=Yhredsqpkn.global.ssl.fastly.net&amp;type=ws#%40Filter_breaker</blockquote> ### 1767887056503
 vless://7e55a065-4e08-49a0-9643-97689f3e0aa8@manager.slimshopboyss.ir:80?security=none&encryption=none&host=ClaWop.com&type=ws#%40byteforge_chan%20%F0%9F%9B%B8 ### 1767887194863
 vless://7e55a065-4e08-49a0-9643-97689f3e0aa8@manager.slimshopboyss.ir:80?security=none&amp;encryption=none&amp;host=noarvancdn.com&amp;type=ws#%40byteforge_chan%20%F0%9F%9B%B8</code> ### 1767887390034
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTc4MjkyMWE4ZTcwODAy@195.7.6.160:18550#BESTIIVPNBOT ### 1767887856275
