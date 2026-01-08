@@ -356,3 +356,5 @@ vless://0a2092de-6913-4b46-9af1-0d6c987ec06f@subscription.lormarb.ir:53762?path=
 vless://ed1f0499-4a12-46ca-a71c-326e15281d40@dash.iaccenter.ir:20795?security=&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT ### 1767860682124
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@109.248.222.151:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nsk.geodema.network&sid=1ed136481e0ede74#BESTIIVPNBOT ### 1767860682124
 vless://a22be179-d210-4313-e499-8530a577b8b7@doprax.fxgoldensignals.com:38231?mode=auto&path=%2F&security=&encryption=none&type=xhttp#BESTIIVPNBOT ### 1767860682124
+vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?security=reality&encryption=none&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f0#BESTIIVPNBOT ### 1767860713518
+vless://e28d3c04-3c60-4315-a46f-2ff41d21e66e@25.129.199.12:2052?mode=auto&path=%2F&security=&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#BESTIIVPNBOT ### 1767860713518
