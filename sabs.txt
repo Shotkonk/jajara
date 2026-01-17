@@ -43,3 +43,4 @@ vless://714baa55-2d34-4ea8-8859-b4336181b4a4@helper2.kashkekambiz.com:2053?path=
 vless://c720931c-f403-4d07-841f-cf2e56252226@i9club.freedomefortecme.com:600?type=tcp&amp;encryption=none&amp;security=none#i9-001 ### 1768616156783
 vless://76fb1b28-3faf-43cc-ac56-666df64a19e9@i9club.freedomefortecme.com:2053?type=tcp&amp;encryption=none&amp;path=%2F&amp;host=www.tgju.org&amp;headerType=http&amp;security=reality&amp;pbk=0fE3iI_vKAdBmdX71Hqq4n1GkAfh-LsQy-P_tduYxAI&amp;fp=randomized&amp;sni=www.apple.com&amp;spx=%2F#hamrah-002 ### 1768616156783
 trojan://fkNw9e73uT@i9club.freedomefortecme.com:900?type=tcp&amp;path=%2F&amp;host=bmi.ir&amp;headerType=http&amp;security=none#TRO-00369 ### 1768616156783
+vless://e98a9042-7fbf-4f7f-8e07-6e7dbe5ba71d@khasis8.pingeto.com:8080?encryption=none&security=none&type=tcp&headerType=none&host=none#1291-KhasisNet ### 1768617163110
