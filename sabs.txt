@@ -27,3 +27,4 @@ vless://d9a6ed78-0f7d-4e76-b85d-92b0d39e08a3@5.75.222.239:600?encryption=none&se
 vless://fd571c05-e2fc-4410-8be4-8f778bd0a761@62.60.158.159:48416?encryption=none&security=none&type=tcp&headerType=none#NetAccount ### 1768752714545
 vless://130d921a-a1e4-4973-9ae4-d4f9f7a8f2d2@i9.speedtest2025.com:35714?encryption=none&security=none&type=tcp&headerType=none#NetAccount ### 1768752714545
 vless://26c40e2f-0a48-4194-9826-9c8bceb265b3@s2.3erveronline.com:43315?security=&amp;encryption=none&amp;host=igap.net&amp;headerType=http&amp;type=tcp#Net</code> ### 1768754130840
+ss://YWVzLTI1Ni1nY206cXcyQndlcXdlM1A2OTdHMmVy@185.60.137.65:16541#%40mirivpn ### 1768754766904
