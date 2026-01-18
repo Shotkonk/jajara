@@ -46,3 +46,12 @@ ss://YWVzLTI1Ni1nY206cXcyQndlcXdlM1A2OTdHMmVy@185.60.137.65:16541#⚡Telegram ##
 trojan://telegram-id-privatevpns@15.188.182.161:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#⚡Telegram ### 1768761466688
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.182.161:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#⚡Telegram ### 1768761466688
 trojan://telegram-id-directvpn@15.188.182.161:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#⚡Telegram ### 1768761466688
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=l.ayovo.netlib.re&fp=chrome&type=ws&sni=l.ayovo.netlib.re#⚡Telegram ### 1768761490427
+vless://8cf4d179-a921-49e5-934c-dcacd276c620@f2.ev2ma.ir:80?path=%2Fma%3Fed%3D2560&security=none&encryption=none&host=amiromaghia.global.ssl.fastly.net&type=ws#⚡Telegram ### 1768761490427
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@cloudflare.182682.xyz:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=l.ayovo.netlib.re&type=ws&sni=l.ayovo.netlib.re#⚡Telegram ### 1768761490427
+trojan://telegram-id-privatevpns@3.121.254.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram ### 1768761490427
+trojan://telegram-id-directvpn@3.121.254.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram ### 1768761490427
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.254.171:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram ### 1768761490427
+trojan://telegram-id-privatevpns@15.188.182.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram ### 1768761490427
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.182.161:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram ### 1768761490427
+trojan://telegram-id-directvpn@15.188.182.161:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram ### 1768761490427
