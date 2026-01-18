@@ -66,3 +66,4 @@ vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?mode=gun&secu
 vless://f5322f2c-f341-11f0-a5bf-ad6ea89cc8c0@217.60.236.9:8004?security=&encryption=none&host=web.rubica.ir&headerType=http&type=tcp#NetAccount ### 1768764793042
 ss://YWVzLTI1Ni1nY206cXcyQndlcXdlM1A2OTdHMmVy@185.60.137.65:16541#@mitivpn</code> ### 1768767122955
 vless://3f688b2a-373a-4be1-846d-b159404b73b2@5.180.45.176:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F-1 ### 1768769006354
+vless://PishiNET2@94.101.191.145:2026?security=none&encryption=none&headerType=none&type=tcp#NetAccount ### 1768769578873
