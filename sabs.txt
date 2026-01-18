@@ -64,3 +64,4 @@ vless://67b708f0-d007-4e56-b22e-e0d44c8eb73b@portal.ofmdirect.com:23200?security
 vless://3132610b-d68d-421e-b9a7-8dbe0bad1961@spain.novaads.shop:42525?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#NetAccount ### 1768764793042
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?mode=gun&security=reality&encryption=none&authority=Telegram-SellV2rayBot--Telegram-SellV2rayBot&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#NetAccount ### 1768764793042
 vless://f5322f2c-f341-11f0-a5bf-ad6ea89cc8c0@217.60.236.9:8004?security=&encryption=none&host=web.rubica.ir&headerType=http&type=tcp#NetAccount ### 1768764793042
+ss://YWVzLTI1Ni1nY206cXcyQndlcXdlM1A2OTdHMmVy@185.60.137.65:16541#@mitivpn</code> ### 1768767122955
