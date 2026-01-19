@@ -115,3 +115,4 @@ vless://9e13716d-c43d-48b3-8cab-65e02d938ab5@chatgpt.com:443?path=%2F&security=t
 vless://7915835e-9c4f-4893-860f-ac19af0f59cd@135.181.251.219:35930?type=tcp&encryption=none&security=none#HP-HP ### 1768862735408
 vless://7915835e-9c4f-4893-860f-ac19af0f59cd@135.181.251.219:35930?type=tcp&amp;encryption=none&amp;security=none#HP-HP ### 1768862751108
 vless://fdea87f9-fe53-4dce-a6ff-d8605a2af4de@104.18.32.47:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=st.nestandneighbours.com&fp=chrome&type=httpupgrade&sni=st.nestandneighbours.com#NetAccount ### 1768863643702
+vless://65018953-ad78-4134-8b8e-eb7e28193719@chatgpt.com:2087?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=cdn.utah-net.top&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn.utah-net.top#NetAccount</code> ### 1768863959242
