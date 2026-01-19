@@ -92,3 +92,4 @@ vless://8a07740f-b932-4372-a3a2-ed91f184cd33@chatgpt.com:2053?encryption=none&se
 vless://b251f81a-95aa-4c83-a716-889acec63fa5@ee1vip.vnet215.xyz:24009?security=&amp;encryption=none&amp;host=zara.com&amp;headerType=http&amp;type=tcp#%40Pro_nic ### 1768849614318
 vless://251fdebe-7fd6-498d-851a-d391ee7cd867@shabiestar.superip.ir:12525?type=ws&amp;path=%2Fadmin&amp;host=zula.ir&amp;security=none#NetAccount</code> ### 1768850337595
 vless://7a543abe-d65f-4115-bfb5-03e14c5ff4c5@213.176.126.201:23771/?type=tcp&amp;encryption=none&amp;security=none#NetAccount</code> ### 1768850337595
+vless://b8c6f669-6418-4706-a9fa-76755b24eab3@chatgpt.com:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;host=api.nestandneighbours.com&amp;type=httpupgrade#irancell</code> ### 1768850712322
