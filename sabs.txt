@@ -80,3 +80,6 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?path=%2F&amp;securi
 vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#NetAccount</code> ### 1768847433251
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=ams1.fromblancwithlove.com#NetAccount</code> ### 1768847433251
 vless://33a69ad0-4d00-47b8-a200-69d37578eb9c@m11a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1768847433251
+vless://33a69ad0-4d00-47b8-a200-69d37578eb9c@m11a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40Merlin_ViP ### 1768847588981
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ams1.fromblancwithlove.com#%40Merlin_ViP ### 1768847588981
+vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@uaegaming.gojustore.site:7035?path=%2F&amp;security=none&amp;encryption=none&amp;host=filimo.com&amp;type=ws#%40Merlin_ViP</code> ### 1768847588981
