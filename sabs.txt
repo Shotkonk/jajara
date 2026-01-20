@@ -135,3 +135,4 @@ vless://86e42553-3576-48ec-bf69-b7e7c33d0ee6@104.18.32.47:443?path=%2FeyJqdW5rIj
 vless://bc69b973-5920-43f1-99ea-b72c378aed04@ee1vip.vnet215.xyz:24005?security=&amp;encryption=none&amp;host=zara.com&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1768870488160
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@chatgpt.com:2096?encryption=none&security=tls&sni=sni.111000.de5.net&type=ws&path=%2F%3Fed%3D2560%26#vless3 ### 1768871916504
 vless://e6ef77c2-c128-4d8d-be3a-b2ca65ae0b5c@193.151.133.78:8080?type=tcp&encryption=none&path=%2F&host=ponisha.ir&headerType=http&security=none#free ### 1768873196321
+vless://e6ef77c2-c128-4d8d-be3a-b2ca65ae0b5c@193.151.133.78:8080?type=tcp&amp;encryption=none&amp;path=%2F&amp;host=ponisha.ir&amp;headerType=http&amp;security=none#free ### 1768873199373
