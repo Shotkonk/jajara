@@ -105,3 +105,4 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@openai.com:443?encryption=none&amp;
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.205.137:80?host=us3.rtacg.com&amp;path=%2F&amp;security=none&amp;type=ws#%40V2raysCollector%20%F0%9F%8C%B6{} ### 1768948292566
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@openai.com:443?encryption=none&host=dev.qsaas.dev&path=%2F&security=tls&sni=dev.qsaas.dev&type=ws#%40V2raysCollector%20%F0%9F%92%A9%3D%F0%9F%91%B3 ### 1768948296651
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.205.137:80?host=us3.rtacg.com&path=%2F&security=none&type=ws#%40V2raysCollector%20%F0%9F%8C%B6 ### 1768948296651
+vless://%40Vip_fragment_v2ray@chatgpt.com:443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=de01.u3er1.ir&amp;path=/tanjazeroMenoximSoonPwrSuber11&amp;sni=de01.u3er1.ir&amp;fp=chrome&amp;alpn=http/1.1#@netshekan99</code> ### 1768948458271
