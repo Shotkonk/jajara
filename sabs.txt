@@ -67,3 +67,4 @@ vless://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&security=t
 vless://c0938841-1b6e-47a3-ad26-e795e0f7aeb2@chatgpt.com:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=cdn5.tehrancloud.net#برای ### 1768943214859
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#برای ### 1768943214859
 vless://0d622f9e-2fbb-4db0-91a7-f367105fde8b@M-FR.MegV2.com:17161?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#V2WRAY%F0%93%84%82%F0%93%86%83{} ### 1768943459794
+vless://0d622f9e-2fbb-4db0-91a7-f367105fde8b@M-FR.MegV2.com:17161?security=none&encryption=none&headerType=none&type=tcp#V2WRAY%F0%93%84%82%F0%93%86%83 ### 1768943465570
