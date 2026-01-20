@@ -66,3 +66,4 @@ vless://0916451d-6db9-4176-90d6-13a14d4630a9@104.18.32.47:443?path=%2FnQTgdN6riY
 vless://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=best1.api-tel.xyz&fp=chrome&type=ws&allowInsecure=0&sni=best1.api-tel.xyz#برای ### 1768943214859
 vless://c0938841-1b6e-47a3-ad26-e795e0f7aeb2@chatgpt.com:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=cdn5.tehrancloud.net#برای ### 1768943214859
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#برای ### 1768943214859
+vless://0d622f9e-2fbb-4db0-91a7-f367105fde8b@M-FR.MegV2.com:17161?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#V2WRAY%F0%93%84%82%F0%93%86%83{} ### 1768943459794
