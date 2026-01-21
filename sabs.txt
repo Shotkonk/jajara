@@ -315,3 +315,4 @@ vless://01926174-2fc1-499e-8a4b-56b3c0c3c3ed@chatgpt.com:443?path=%2Farmod&secur
 vless://7d9e0e9b-3195-421f-9228-be763906a005@chatgpt.com:443?path=%2Fthisway&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=main.shieldpath.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=main.shieldpath.ir#%40freevpn404%20026 ### 1769004770168
 vless://7d9e0e9b-3195-421f-9228-be763906a005@chatgpt.com:443?path=%2Fthisway&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=main.shieldpath.ir&fp=chrome&type=ws&allowInsecure=0&sni=main.shieldpath.ir#%40freevpn404%20026 ### 1769004775343
 vless://71eef3aa-4cb2-4693-984f-a530725681b1@2.144.5.150:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=iran.ir&amp;type=ws#NetAccount</code> ### 1769004922657
+vless://71eef3aa-4cb2-4693-984f-a530725681b1@2.144.5.150:80?path=%2F&security=none&encryption=none&host=iran.ir&type=ws#NetAccount ### 1769004927835
