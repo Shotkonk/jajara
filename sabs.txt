@@ -148,3 +148,5 @@ vless://20d41fce-f96c-4f0e-9111-5c911369f4e5@104.18.32.47:443?encryption=none&se
 vless://20d41fce-f96c-4f0e-9111-5c911369f4e5@chatgpt.com:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=cell.parhamm1.ir&sni=cell.parhamm1.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#NetAccount ### 1768956816090
 trojan://trojan@chatgpt.com:8443?security=tls&sni=fofang.pages.dev&insecure=1&allowInsecure=1&type=ws&path=%2F#1 ### 1768958047380
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@chatgpt.com:2096?encryption=none&security=tls&sni=8j3f7HD37h.PaGES.dEV&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#vless4 ### 1768958047380
+trojan://trojan@chatgpt.com:8443?security=tls&amp;sni=fofang.pages.dev&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;path=%2F#1{} ### 1768958052520
+vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@chatgpt.com:2096?encryption=none&amp;security=tls&amp;sni=8j3f7HD37h.PaGES.dEV&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;path=%2F#vless4{} ### 1768958052520
