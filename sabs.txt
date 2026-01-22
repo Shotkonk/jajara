@@ -439,3 +439,4 @@ vless://043e4b94-f754-4207-97b3-19ec749bbf4a@ad.felfel.com.tr:443?path=%2F&secur
 vless://6131ec27-8eed-4af9-9f8e-a0629775f6d6@8.6.112.0:443?path=%2F65.109.211.85%3D2053&security=tls&encryption=none&insecure=0&host=floralwhite.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=floralwhite.qzz.io#NetAccount ### 1769111641599
 vless://9f51682b-487d-4912-9418-c659cbe8f4ed@zen-core.megaconfig.com:1198?security=reality&encryption=none&pbk=J4od8RrAV4Us8mO38jkKdaW6yb-8TqISgE0ttrtPoV4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=refersion.com&sid=908833730613ddfb#NetAccount ### 1769111641599
 vless://97d0961f-7f44-40cf-a0c7-3d77722e3a51@172.105.105.182:2023?security=none&type=tcp&headerType=http&path=%2F&host=excoino.com#[🇨🇦]t.m/saministamm ### 1769111712160
+vless://97d0961f-7f44-40cf-a0c7-3d77722e3a51@172.105.105.182:2023?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=excoino.com#[🇨🇦]t.m/saministamm ### 1769111714708
