@@ -1,6 +1,3 @@
-vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443?encryption=none&amp;security=tls&amp;sni=cdn.vpsmee.ir&amp;fp=chrome&amp;alpn=http%2F1.1&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=mtn.vpsmee.ir&amp;path=%2FX0PX5Vup1qlVVzhxp6ic50a#NetAccount</code> ### 1769042220636
-ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446?#NetAccount</code> ### 1769042220636
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.135.9.15:443?security=tls&amp;sni=kkk.ylks.link&amp;type=ws&amp;host=kkk.ylks.link&amp;path=%2Fjuzi#NetAccount</code> ### 1769042220636
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.152.4:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ww23.sgxaniu.qzz.io&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ww23.sgxaniu.qzz.io#GOZAR%20NET{} ### 1769042817565
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.152.4:443?path=%2F&security=tls&encryption=none&host=www.allxniu.qzz.io&type=ws&sni=www.allxniu.qzz.io#%F0%9F%86%94Telegram%20%3A%20%40planB_net ### 1769043241877
 vless://6131ec27-8eed-4af9-9f8e-a0629775f6d6@8.6.112.0:443?path=%2F65.109.211.85%3D2053&security=tls&encryption=none&host=floralwhite.qzz.io&type=ws&sni=floralwhite.qzz.io#%F0%9F%86%94Telegram%20%3A%20%40planB_net ### 1769043241877
@@ -384,3 +381,4 @@ vless://7abc75eb-b58b-4e28-af59-20f41bdf7a2a@dns.ownlink.pro:443?path=%2Frestart
 vless://edfe6a96-81b7-478f-a528-2b09c721557e@am.speeditest.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#⚡VayNora ### 1769099413615
 vless://7b617bbb-8ff7-470e-b23b-339d48a2b8c3@162.159.152.4:443?path=%2F46.226.161.37%3D443&amp;security=tls&amp;encryption=none&amp;host=gulfblue.qzz.io&amp;type=ws&amp;sni=gulfblue.qzz.io#%D8%B1%D8%A7%DB%8C%D8%AA%D9%84 ### 1769099479877
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.79.146:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#NetAccount ### 1769099619525
+vless://72a9aff3-2899-4a11-bdf2-1bc57a348177@shokolat.cookierp.ir:1006?security=reality&amp;encryption=none&amp;pbk=nPoRTmN_BkcqPXwqs8MiIEyzWIR4tKtONEDwEF5PpkU&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=tgju.org&amp;sid=bb4ba541434cb617#%F0%9F%87%B3%F0%9F%87%B1%20MoonMovie%2B ### 1769099954608
