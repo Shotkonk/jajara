@@ -382,3 +382,4 @@ vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.126.67.73:443?security=reality&
 vless://570423fd-2f64-4502-acfa-4d37d1a3fd39@vsrv.raykaservers.com:10412?path=%2F&security=&encryption=none&type=ws#VayNora ### 1769099413615
 vless://7abc75eb-b58b-4e28-af59-20f41bdf7a2a@dns.ownlink.pro:443?path=%2Frestart&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=last.ownlink.pro&fp=chrome&type=ws&sni=last.ownlink.pro#VayNora ### 1769099413615
 vless://edfe6a96-81b7-478f-a528-2b09c721557e@am.speeditest.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#⚡VayNora ### 1769099413615
+vless://7b617bbb-8ff7-470e-b23b-339d48a2b8c3@162.159.152.4:443?path=%2F46.226.161.37%3D443&amp;security=tls&amp;encryption=none&amp;host=gulfblue.qzz.io&amp;type=ws&amp;sni=gulfblue.qzz.io#%D8%B1%D8%A7%DB%8C%D8%AA%D9%84 ### 1769099479877
