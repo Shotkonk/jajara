@@ -529,3 +529,4 @@ vless://df1779d2 ### 1769043788535
 vless://41af0c79-a67f-4864-9e39-9c3c33ea67eb@104.18.32.47:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=temp.iranvatanam.com#NetAccount ### 1769043856482
 vless://d9ef36c4-f33a-4fa1-8e15-50741cde72fd@chatgpt.com:2053?path=%2F&security=tls&encryption=none&insecure=1&host=hotnetir5.tond.net&fp=chrome&type=ws&allowInsecure=1&sni=hotnetir5.tond.net#NetAccount ### 1769043856482
 vless://3f3c9bf8-6944-4a8d-ad90-52de0059d259@dns.ownlink.pro:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=scn.pmme4.top&fp=chrome&type=ws&allowInsecure=0&sni=scn.pmme4.top#Kavi2 ### 1769043933900
+vless://150c40a9-d7ad-440f-8e3d-f1b4a2c3c566@chatgpt.com:443?encryption=none&amp;security=tls&amp;sni=floralwhite.qzz.io&amp;type=ws&amp;host=floralwhite.qzz.io&amp;path=%2F172.86.68.95%3D2053#NetAccount</code> ### 1769044576008
