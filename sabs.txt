@@ -438,3 +438,4 @@ vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=%2Fvi
 vless://71b980ea-f93b-46e9-8a15-4d7c76ca58a2@ie.vpnh.io:443?security=reality&amp;encryption=none&amp;pbk=JLMTboz88deifObzvt6tr-A1vssYfYJBj_Vg0XD2bT0&amp;headerType=none&amp;fp=chrome&amp;spx=%2FayRhG6QWK16NkNd&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.google.com&amp;sid=78bf01df#%40Kia_Net ### 1769194188351
 vless://ac26aac6-9833-46e3-9629-ec2a87db2355@83.228.225.9:8080?path=%2Fvip&amp;security=&amp;encryption=none&amp;type=ws#none ### 1769194188351
 vless://e820d8f6-1bb6-4f23-aead-11544349fa6a@84.32.231.133:80?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#none ### 1769194188351
+vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%E2%92%8B%E2%A5%BD%20%40FNETPRO%20%E2%A5%BC%20%F0%9F%87%B3%F0%9F%87%B1</code></blockquote> ### 1769194254797
