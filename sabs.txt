@@ -401,3 +401,4 @@ vless://6c5d6f91-1763-4855-8002-85d57c2d653c@85.133.204.89:1313?type=tcp&amp;enc
 vless://f3da2aa5-655e-4ddc-85f6-1e78dce44468@85.133.204.89:1313?type=tcp&amp;encryption=none&amp;security=none#NetAccount2 ### 1769181351507
 vless://bb159e2f-d1fd-428e-b3c3-e49c96302585@85.133.204.89:1313?type=tcp&amp;encryption=none&amp;security=none#NetAccount3 ### 1769181351507
 vless://b7d92a57-de53-4488-924f-4970e3d21dfa@85.133.204.89:1313?type=tcp&amp;encryption=none&amp;security=none#NetAccount4</code> ### 1769181351507
+vless://da74f72f-d959-4606-aa1f-5d2f98ed1d02@god.panelbaz.com:704?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=refersion.com&amp;fp=firefox&amp;pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&amp;sid=#%20%E2%92%8B%E2%A5%BD%20%F0%9D%90%86%F0%9D%90%8E%F0%9D%90%83%20%E2%A5%BC%20%F0%9F%87%B3%F0%9F%87%B1 ### 1769181473700
