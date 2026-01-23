@@ -443,3 +443,4 @@ vless://7abc75eb-b58b-4e28-af59-20f41bdf7a2a@dns.ownlink.pro:443?security=tls&al
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/&headerType=http#%40filembad ### 1769209390581
 vless://8ad4523c-032e-4ec3-94ea-182638c8e688@37.252.4.176:35979?path=%2F&security=none&encryption=none&type=ws#%40filembad ### 1769209390581
 vless://54424df8-aee6-4d2d-8006-4f91e5183544@fr-1-direct.healingfluence.com:8000?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=fr-1.claudify.org&alpn=h2,http/1.1#jucp-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20 ### 1769209969454
+vless://8d5b2746-aeda-4f7c-9f6b-062bb6517d48@nl.reata.ir:2050?security=reality&encryption=none&pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=339d7c53d8832086#%40Proxy_sh%209377 ### 1769210219650
