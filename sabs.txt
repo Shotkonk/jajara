@@ -362,3 +362,4 @@ vless://b697c18e-cdf3-4c45-8c75-4bdcb3a21506@ert-2.v-sub.site:8880?path=%2F%3Fed
 vless://323e6743-7ac0-4eff-b568-aa6fabccf07c@45.133.251.141:26480?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@meliproxyy ### 1769286262577
 vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=sg.aniua.qzz.io&amp;type=ws&amp;sni=sg.aniua.qzz.io#@meliproxyy ### 1769286262577
 vless://df51af95-2ac3-4176-ba27-5143379c60ed@ip.salarvandservice.org:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=finland.netpllus.ir&amp;type=httpupgrade#@meliproxyy ### 1769286262577
+vless://e258977b-e413-4718-a3af-02d75492c349@154.194.0.159:443?encryption=none&security=tls&sni=sg.aniua.qzz.io&fp=chrome&type=ws&host=sg.aniua.qzz.io&path=%2F%3Fed%3D2560#%40duckvp_n ### 1769286430878
