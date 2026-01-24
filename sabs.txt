@@ -335,3 +335,4 @@ vless://FreakConfig@77.232.142.141:443?mode=auto&amp;path=%2F&amp;security=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmZlZTEzODhlOTYwNTM3@51.89.117.154:11201#⚡Telegram ### 1769254654393
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=sni.111000.dynv6.net&amp;allowinsecure=0&amp;type=ws&amp;sni=sni.111000.dynv6.net#⚡Telegram ### 1769254654393
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMTA1MmIwZTZjOTQ5NDgx@162.19.228.25:16014#⚡Telegram</blockquote> ### 1769254654393
+vless://b3aea537-5661-43fb-b753-00aba09275cd@ititan.murix.me:8443?type=tcp&encryption=none&path=%2F&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&security=none#%20-%20Cloned-X_Her0%20%20%20%201 ### 1769255176003
