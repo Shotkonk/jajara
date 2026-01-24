@@ -413,3 +413,6 @@ vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@india.novaads.shop:42537?encryption
 vless://9e3d1839-9d6f-45ac-971a-d0f8365a75eb@tr.speeditest.ir:81?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#@wedbazgap ### 1769216495803
 vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@172.233.116.229:587?security=reality&amp;encryption=none&amp;pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=excoino.com&amp;sid=916e8258c4a01b02#Join ### 1769216495803
 vless://41384a34-af16-4bf9-aca5-e808f1e723ae@ip2-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=norbertfn1.global.ssl.fastly.net&amp;type=ws#[🇨🇦]Telegram: ### 1769216495803
+vless://9e3d1839-9d6f-45ac-971a-d0f8365a75eb@tr.speeditest.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#@wedbazgap ### 1769216512794
+vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@172.233.116.229:587?security=reality&encryption=none&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=916e8258c4a01b02#Join ### 1769216512794
+vless://41384a34-af16-4bf9-aca5-e808f1e723ae@ip2-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=norbertfn1.global.ssl.fastly.net&type=ws#[🇨🇦]Telegram: ### 1769216512794
