@@ -359,3 +359,4 @@ vless://b697c18e-cdf3-4c45-8c75-4bdcb3a21506@ert-2.v-sub.site:8880?path=%2F%3Fed
 vless://323e6743-7ac0-4eff-b568-aa6fabccf07c@45.133.251.141:26480?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40airdrop2033 ### 1769288597441
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.162.232:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&amp;fp=chrome&amp;type=grpc&amp;serviceName=UpdateService&amp;sni=apple.com&amp;sid=6da16b1335651b38#%40airdrop2033 ### 1769288597441
 vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@mkh.v2plus.ovh:443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;type=ws&amp;sni=siria2.mrpixanos.ir#%40airdrop2033</code> ### 1769288597441
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ<a ### 1769289086883
