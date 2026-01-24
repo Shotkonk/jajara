@@ -344,3 +344,5 @@ vless://1c2cb6e4-1594-4ba1-8b2b-ac26d0eadc00@chatgpt.com:443?encryption=none&amp
 vless://18228710-dfd0-4bca-8425-4abff39843a4@f1.mrvpvn.com:8989?security=reality&amp;encryption=none&amp;pbk=V0eyNDwiopokBD6C40KddpyLSzm<em>4CSxQb7dsbL</em>HU0&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;sni=refersion.com#%40isprox-1255 ### 1769235354864
 vless://9eedc58e-47e4-44e1-8200-91f89f3bce41@t61617.skytunnel.ir:8800?security=none&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#%40isprox-1257 ### 1769235354864
 vless://7912a0b6-4e03-4408-8e8f-2a7eb85c04fe@s2.alphaspeed2.ir:443?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%40isprox-1258 ### 1769235354864
+vless://818ffdea-872c-43fe-adee-09d4e99a9ce6@api.steamsale.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fast.spacenetpro.xyz&fp=chrome&type=xhttp&sni=fast.spacenetpro.xyz#NetAccount ### 1769235423295
+vless://58c4d669-2e96-419b-b85a-df2938e535d5@ip3-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#NetAccount ### 1769235423295
