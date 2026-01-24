@@ -345,3 +345,4 @@ vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@maxb10.musicdoon.ir:8080?security=r
 vless://2c7a2b04-ad16-484b-b0e4-739cd06b650f@maxb01.musicdoon.ir:8080?security=reality&amp;encryption=none&amp;pbk=D8uvi--0Aq7Hjc7cYnfcJ</code> ### 1769276611830
 vless://7c124428-01b4-419b-81a9-0d89390614b8@ar1.amirtunel1.indevs.in:8989?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40confegraigan%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%2031{} ### 1769276804238
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(88) ### 1769277401327
+ss://bm9uZTo0MDY1ZTFiMS0wYzM3LTQ0YTctOTkxNS1kODBmODFlNmU0M2U@208.103.161.173:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D0%3Bpath%3D%2F51.75.70.31%5C%3D8443%3Bhost%3Dgzjx.dpdns.org%3Btls#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%20@kingo_wallpaper%20(%20Kingo%20team%20)%20TM</code> ### 1769277692210
