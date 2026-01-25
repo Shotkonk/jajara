@@ -406,3 +406,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#The+Netherlands ### 1769382780680
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#United+Kingdom ### 1769382780680
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States ### 1769382780680
+vless://27132599-27db-4089-8238-4b7b94de500e@ert-1.v-sub.site:8880?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F%3Fed%3D2080&amp;host=litespeed.f-sub.com#%40Filter_breaker ### 1769382887237
+vless://27132599-27db-4089-8238-4b7b94de500e@ert-2.v-sub.site:8880?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F%3Fed%3D2080&amp;host=backup.f-sub.cfd#%40Filter_breaker ### 1769382887237
+vless://27132599-27db-4089-8238-4b7b94de500e@ert-3.v-sub.site:8880?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F%3Fed%3D2080&amp;host=whm.linux-panel.com#%40Filter_breaker ### 1769382887237
+vless://27132599-27db-4089-8238-4b7b94de500e@ert-4.v-sub.site:8880?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F%3Fed%3D2080&amp;host=norton-vip.cfd#%40Filter_breaker ### 1769382887237
+vless://27132599-27db-4089-8238-4b7b94de500e@ert-7.v-sub.site:8880?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F%3Fed%3D2080&amp;host=my.v-sub.site#%40Filter_breaker ### 1769382887237
+vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@cdn.sjdpictures.ir:443?path=%2F146.56.99.255%3D56789&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Filter_breaker ### 1769382887237
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cdn.sjdpictures.ir:8443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Filter_breaker ### 1769382887237
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cdn.sjdpictures.ir:8443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Filter_breaker ### 1769382887237
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Filter_breaker</blockquote> ### 1769382887237
