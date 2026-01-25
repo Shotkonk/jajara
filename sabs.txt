@@ -1,8 +1,3 @@
-vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@91.108.245.93:2584?security=none&encryption=none&headerType=none&type=tcp#%40filembad ### 1769304435956
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#%40filembad ### 1769304435956
-vless://4dcfab42-4703-07d0-b56d-0965380a532e@morgentop.ru:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%D8%B1%D8%A7%DB%8C%D8%AA%D9%84 ### 1769304435956
-vless://9263c558-1d48-4168-8659-856bbe6bb2f4@adv5.mygoldiran.com:50516?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#%40filembad ### 1769304435956
-vless://FreakConfig@77.232.142.141:443?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%40filembad ### 1769304435956
 vless://31f3978b-2190-43be-a5ec-c95bb15222ca@freak3.infospeedtest.com:16520?security=reality&encryption=none&pbk=-5e53l-_LDS-8t3jvxaL2rjWLlfzFCu2B5BycO2f904&headerType=none&fp=chrome&spx=%2F9rzegbzj5dg3UfV&type=tcp&sni=yahoo.com&sid=3729db2a87a744b4#@Phoenix_Configs ### 1769306308023
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=Excoino.com#NetAccount</code> ### 1769306945246
 vless://41477c12-82d0-4809-935d-137bd448d823@89.40.117.189:40938?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#NetAccount</code> ### 1769306945246
@@ -282,3 +277,6 @@ vless://bde6931c-7cb2-4654-98a7-f32c46f0e16b@144.31.247.25:19065?mode=auto&amp;p
 vless://1a69dc19-2245-46ff-b7ee-7715520edad6@69.84.182.223:2053?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=basijii.my-iranparspack.ir#NetAccount</code> ### 1769361753776
 vless://425485f7-f54f-4834-a847-30dc2969a20b@free1.turbovipt1.top:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ger2.turbovipt1.top#NetAccount</code> ### 1769361753776
 vless://893fed59-18a7-4d1c-ba63-5352ca2cee7a@151.101.195.8:80?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=cbi.ir&amp;path=/ArtistsBiography?ed%3D2560#⚡Telegram ### 1769361947474
+vless://bde6931c-7cb2-4654-98a7-f32c46f0e16b@144.31.247.25:19065?mode=auto&path=%2F&security=reality&encryption=none&pbk=Ur7GsMISFGoltpbGPhGGuptwm9spqHs_Y5eumIKirDM&fp=firefox&spx=%2FCCCbZGPFypK9BtA&type=xhttp&sni=www.latimes.com&sid=761ffb8b# ### 1769362484623
+vless://1a69dc19-2245-46ff-b7ee-7715520edad6@69.84.182.223:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=chrome&type=ws&sni=basijii.my-iranparspack.ir# ### 1769362484623
+vless://425485f7-f54f-4834-a847-30dc2969a20b@free1.turbovipt1.top:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ger2.turbovipt1.top# ### 1769362484623
