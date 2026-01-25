@@ -299,3 +299,4 @@ vless://123d4832-db2b-4376-be63-f60858cc328e@tr-1.bot-iphone.ru:8443?security=re
 vless://2d1c9c77-cc74-449f-805c-b02c2dbbf62f@site.systemgamingirani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wizwiz.vidboxco.ir#%40fox_vpntuneel ### 1769348641741
 vless://44d5adc3-f005-404f-b7dd-d18895f8a38e@45.82.139.143:14019?encryption=none&type=tcp&security=none#@@TapsiVpn ### 1769348641741
 vless://fe6d821c-dde6-4181-8748-4e545bdf310e@med.crosscenter2.ir:2053?path=%2Fmh&security=tls&encryption=none&insecure=0&host=sni.amir467.shop&fp=chrome&type=ws&allowInsecure=0&sni=sni.amir467.shop#%40fox_vpntuneel%2013 ### 1769348641741
+vless://affc0551-2d67-4084-8b66-516ff5db2dfb@CDN.TORPROSPEED.IR:2087?path=%2F&security=tls&encryption=none&insecure=0&host=cms.k-dramaindo.com&type=ws&allowInsecure=0&sni=cms.k-dramaindo.com#%40freevpn404%20V2ray%209%20%2825%20Jan%29 ### 1769348702146
