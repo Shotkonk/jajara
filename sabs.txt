@@ -676,3 +676,6 @@ vless://71b46b68-295a-40fa-9fc5-49519218e67c@ert-3.v-sub.site:8880?path=%2F%3Fed
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#Telegram%3A%20%20%40CroSs_Guildd</blockquote> ### 1769465456790
 vless://579f8980-19b0-41c7-8ee6-2c926f43ffea@ert-2.v-sub.site:8880?path=%2F%3Fed%3D2080&security=none&encryption=none&host=backup.f-sub.cfd&type=httpupgrade#gscad ### 1769465566271
 vless://579f8980-19b0-41c7-8ee6-2c926f43ffea@ert-3.v-sub.site:8880?path=%2F%3Fed%3D2080&security=none&encryption=none&host=whm.linux-panel.com&type=httpupgrade#telegram%3Agscad ### 1769465566271
+vless://1cc40572-43d1-44a7-ad26-312fa7206997@151.101.206.133:80?mode=auto&path=%2Fdash&security=&encryption=none&host=formingclodf.com&type=xhttp#NetAccount ### 1769465689049
+vless://a1eba9ee-4f2d-4013-b16f-ef7f5198d2f1@fastly.com:80?security=&encryption=none&host=ClaWop.com&type=ws#NetAccount ### 1769465689049
+vless://7718721f-2975-4d82-bdcd-ad92bd1dd779@mpc.mobayandeh.top:443?path=%2F%3Fed%3D2082&security=tls&alpn=http%2F1.1&encryption=none&host=holcdn.wordperessweb.ir&fp=chrome&type=ws&sni=holcdn.wordperessweb.ir#NetAccount ### 1769465689049
