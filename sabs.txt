@@ -536,3 +536,4 @@ vless://2cb2d6bb-078e-42bb-84bd-ebd6b716c38a@uk.nationalldt.com:30443?security=r
 vless://ad60044f-1e05-4714-b805-e13f908b6589@151.101.67.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=r8x-net.global.ssl.fastly.net&amp;type=xhttp#%40 ### 1769453143863
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;host=delta090.qzz.io&amp;type=ws&amp;sni=delta090.qzz.io#%40 ### 1769453143863
 vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?path=%2F138.2.48.109%3A26412&amp;security=tls&amp;encryption=none&amp;host=delta090.qzz.io&amp;type=ws&amp;sni=delta090.qzz.io#none ### 1769453143863
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@172.64.152.23:443?path=%2F&security=tls&encryption=none&insecure=0&host=Dn3UdW4qIh.SmArTtEcHzAaL.iNfO&type=ws&allowInsecure=0&sni=Dn3UdW4qIh.SmArTtEcHzAaL.iNfO#NetAccount ### 1769453238299
