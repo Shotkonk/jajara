@@ -1,4 +1,3 @@
-vless://4c0359d6-41ae-4dd5-a37b-fdb94a7c72ce@host.zone-server-irani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=TR.my-iranparspack.ir#%40 ### 1769434200252
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@172.64.152.23:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=Dn3UdW4qIh.SmArTtEcHzAaL.iNfO&amp;type=ws&amp;allowInsecure=0&amp;sni=Dn3UdW4qIh.SmArTtEcHzAaL.iNfO#%F0%9F%86%94Telegram%20%3A%20%40planB_net ### 1769434853116
 vless://95a9d042-8efb-4d8d-9bf3-cbd787338a2e@dm.gomarts.space:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=speedup.global.ssl.fastly.net&amp;type=xhttp#%F0%9F%86%94Telegram%20%3A%20%40planB_net ### 1769434853116
 vless://ffcfecc9-6713-4b14-886c-d18003909e06@172.64.152.23:443?mode=gun&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=grpc&amp;allowInsecure=0&amp;sni=GrCxHxTj0.HaTmAnBiYaInJaHa.cOm#%F0%9F%86%94Telegram%20%3A%20%40planB_net ### 1769434853116
@@ -601,3 +600,4 @@ vless://ee67f66b-d3d0-4da4-86a2-c73eb4d78319@amin.nimuplink.ir:8081?security=non
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40filembad ### 1769490066494
 vless://b2b98c1c-5768-4d2f-a32d-22a7714c0ab3@iphone-panel11.gamepiu.ir:4019?security=none&amp;encryption=none&amp;host=pishkooh.com&amp;headerType=http&amp;type=tcp#%40filembad ### 1769490066494
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaSldOaXFIbjFXN0dlWFc5OHZOZnMx@dyn.usa.outlinekeys.net:56636#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%92%A3t.me%2FAntifilterjadid%F0%9F%AB%9F{} ### 1769491570456
+vless://c0cb96b6-fa80-43b2-a50a-ea4938f58878@151.101.194.228:80?type=xhttp&amp;encryption=none&amp;path=%2Fdownloader&amp;host=trxiliservice.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%40XiliVpN%20-%20%E2%80%8C8%20%E2%80%8C-%E2%80%8C%20%5B%F0%9F%87%B9%F0%9F%87%B7%5D{} ### 1769491898261
