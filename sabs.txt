@@ -650,3 +650,4 @@ vless://c11b7718-c5dc-4cf4-ae8d-786082d50c03@ert-3.v-sub.site:2087?path=%2F&amp;
 vless://c11b7718-c5dc-4cf4-ae8d-786082d50c03@ert-3.v-sub.site:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=cms.k-dramaindo.com&amp;type=ws&amp;sni=cms.k-dramaindo.com#%40WHALESPRICEBOT ### 1769520884768
 vless://c11b7718-c5dc-4cf4-ae8d-786082d50c03@ert-3.v-sub.site:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=spd.hostino.fun&amp;type=ws&amp;sni=spd.hostino.fun#%40WHALESPRICEBOT ### 1769520884768
 vless://c11b7718-c5dc-4cf4-ae8d-786082d50c03@ert-3.v-sub.site:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=work.k-dramaindo.com&amp;type=ws&amp;sni=work.k-dramaindo.com#%40WHALESPRICEBOT</blockquote> ### 1769520884768
+vless://b618bf21-513f-444a-a8c4-ca23a986a087@i9.freedomefortecme.com:600?type=tcp&amp;encryption=none&amp;path=%2F&amp;host=www.tgju.org&amp;headerType=http&amp;security=none#[🇷🇺]t.me/ConfigsHub ### 1769520980180
