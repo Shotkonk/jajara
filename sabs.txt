@@ -552,3 +552,6 @@ vless://de600275-34e0-4c25-bafe-45398d8a7b81@err.generalireon.com:54811?security
 vless://723c7b9d-5d2a-401f-ae45-ba57181538fa@tu1.connectbaash.info:6071?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1769724923941
 vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&headerType=none&type=tcp#%40me_tel7 ### 1769725032416
 trojan://humanity@Foriran.mizbanit.com:443?path=%2Fassignment&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;host=www.creationlong.org&amp;fp=chrome&amp;type=ws&amp;sni=www.creationlong.org#%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20%40CroSs_Guildd ### 1769725061903
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.li.f2zone.ir:50334?security=&amp;encryption=none&amp;host=skyroom.online&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1769725595426
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@109.122.254.90:4220?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=blog.zanborak-shop.ir&amp;path=/#NetAccount</code> ### 1769725595426
+trojan://humanity@www.calmlunch.com:443?security=tls&amp;sni=www.calmlunch.com&amp;fp=chrome&amp;allowInsecure=0&amp;type=ws&amp;path=/assignment#NetAccount</code> ### 1769725595426
