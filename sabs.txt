@@ -403,3 +403,4 @@ trojan://humanity@Foriran.mizbanit.com:443?path=%2Fassignment&amp;security=tls&a
 vless://266b09b3-aad1-445b-8150-904714ad0cdf@104.21.55.47:2053?security=tls&amp;encryption=none&amp;host=image-photo-ger.bestasli.ir&amp;type=ws&amp;sni=image-photo-ger.bestasli.ir#Telegram%3A%20%20%40CroSs_Guildd ### 1769799159511
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWMzZjkwM2U4MWQ1ZDRl@57.128.190.194:10013#Telegram%3A%20%20%40CroSs_Guildd ### 1769799159511
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#Telegram%3A%20%20%40CroSs_Guildd ### 1769799159511
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#Telegram%3A%20%20%40CroSs_Guildd</code> ### 1769799513414
