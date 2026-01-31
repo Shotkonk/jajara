@@ -310,4 +310,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZXpqbzR1alhDbFZoRVgyUUluRzR1@94.131.123.236
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MXBiVnB1dGkzYjhsbkI4NExEZlc0@57.128.174.124:5223#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7 ### 1769885651388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMjcyZGU0OGM1M2UwYTU3@154.205.147.237:11201#%40v2FreeHub%20%F0%9F%87%B4%F0%9F%87%B2 ### 1769885651388
 ss://YWVzLTI1Ni1nY206YTBkMGRlZTEtZGQ1Zi00MDNjLThlODktNmFhMzY5MTcyZjYx@38.244.209.215:443#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%AE ### 1769885651388
-vless://efa9ceb6-b23a-4c6f-a076-d2f4139f3ac0@37.152.175.115:882?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#%F0%9F%94%B9%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%2F%20NetZone_ir%40 ### 1769886741908
+vless://efa9ceb6-b23a-4c6f-a076-d2f4139f3ac0@37.152.175.115:882?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#%F0%9F%94%B9%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%2F%20NetZone_ir%40 ### 1769886742955
