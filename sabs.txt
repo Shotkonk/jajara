@@ -372,3 +372,4 @@ vless://8edaa2ae-7c08-4370-93b5-a3c2637bad9d@199.232.76.150:80?mode=auto&amp;pat
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.calmlunch.com&amp;type=ws&amp;sni=www.calmlunch.com#%E2%97%8F%20%40proxy_online_net%20%20%E3%80%8B%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%E3%80%8A ### 1769903054993
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ<a ### 1769903383310
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%5Bopenproxylist.com%5D+NL+5799981 ### 1769903414968
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%5Bopenproxylist.com%5D+NL+2428063 ### 1769903486047
