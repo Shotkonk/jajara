@@ -333,3 +333,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWnUweU1sdFQzbWVqZldmeFhKSDFL@62.133.60.43:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.129.98:990#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%AE ### 1769972551340
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#%40v2FreeHub%20%F0%9F%87%A8%F0%9F%87%A6 ### 1769972551340
 vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@94.131.123.236:2003?mode=gun&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;type=grpc&amp;serviceName=cdn-cgi&amp;allowInsecure=1#%40v2FreeHub%20%F0%9F%87%B9%F0%9F%87%B7</code></blockquote> ### 1769972551340
+vless://e6d67c55-aafc-4699-9eb8-364da156ffef@usa.karwashnet.com:443?type=ws&security=tls&path=%2FxYzAbc123&encryption=none&alpn=h3,h2,http/1.1&fp=chrome&host=&sni=usa.karwashnet.com#آلمان3-7917060636-15739 ### 1769972913370
