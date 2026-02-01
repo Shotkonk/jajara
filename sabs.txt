@@ -337,3 +337,4 @@ vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=%2Fvpn
 vless://fc73526b-575d-9bd4-ef9e-545c1dd5265d@sos2.ri9.ir:2657?security=&encryption=none&headerType=http&type=tcp#%40filembad ### 1769979943605
 vless://fc73526b-575d-9bd4-ef9e-545c1dd5265d@sos2.ri9.ir:2657?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40filembad ### 1769979954051
 vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@ChatGPT.com:443?path=%2F129.150.58.86%3A57621&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud4.c01.kr&amp;type=ws&amp;allowInsecure=0&amp;sni=afrcloud4.c01.kr#%40filembad ### 1769979974326
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=%2FXIXVPN%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=random&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#%40filembad ### 1769980003757
