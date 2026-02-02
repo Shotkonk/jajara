@@ -256,3 +256,6 @@ vless://25aa5ef6-3eac-467f-9e26-1b18502f37dc@servers.xvon.in:80?path=%2F&securit
 vless://0f523f7f-d795-446b-ad45-797c1700e28e@dach.cloudflare.com.snaap.irazzkiiranhob.pleasecheckout.blaackgame.ir:8081?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#NetAccount ### 1770061595638
 vless://3c47ed67-d4a7-4f2b-90b7-98f4b197bb0d@137.74.119.18:8442?security=none&encryption=none&headerType=none&type=tcp#NetAccount ### 1770061595638
 vless://21fbdd38-d039-498e-9abc-4040cc545526@SpEeDtEsT.NeT:80?mode=auto&path=%2FHajAmirVip%3F%3D2048&security=&encryption=none&host=fasthetz.global.ssl.fastly.net&type=xhttp#NetAccount ### 1770061595638
+vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@45.130.125.160:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=afrcloud4.c01.kr&path=/213.35.108.135:12596&sni=afrcloud4.c01.kr&fp=chrome#NetAccount ### 1770061603173
+vless://fef4510f-1717-1967-f752-de6ec4948f55@94.183.165.200:80?security=none&allowInsecure=0&encryption=none&type=tcp&host=mir-data-60.myket.ir&path=/&headerType=http#NetAccount ### 1770061603173
+vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@dgrns1.vertalist.ir:1310?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=/&headerType=http#NetAccount ### 1770061603173
