@@ -321,3 +321,4 @@ vless://0fe6aa1e-bcfc-4119-a1bb-4682f2148271@ir.radvin1.ir:11890?security=&amp;e
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.222.78:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Telegram:@config_proxy ### 1770235961797
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.126:8880?type=grpc&mode=gun&security=none#Telegram:@config_proxy ### 1770235970264
 vless://3209ec50-2909-4972-83cb-93349f9d94fd@lv.asbndx.com:443?security=reality&amp;encryption=none&amp;pbk=cLTwcyrDLe5-4EX35lpT0tWOe4aOjuXvXFjnH1rFBG4&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=lv.asbndx.com&amp;sid=0f4dacf62222e05f#Telegram:@config_proxy{} ### 1770235974533
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTFlYWZkZmZkOWE4MWUw@154.205.134.155:11651#Telegram:@config_proxy{} ### 1770235993579
