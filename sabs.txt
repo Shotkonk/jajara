@@ -49,3 +49,4 @@ vless://b5e42648-f958-4d88-afab-2cf4e9205f2d@vip-80.f-sub.cfd:8443?path=%2F&amp;
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%40FarazV2ray ### 1770201102457
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDQ3MDM2YzQ1NTk2NjA1@57.129.94.79:11208#%40FarazV2ray ### 1770201112467
 vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#%40FarazV2ray{} ### 1770201115780
+vless://02834cd6-b8b7-4a0e-90c7-02bc0f3d3a33@ch-alien.khodeimobile.com:8880?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=happ.mobilezahra.com&amp;type=xhttp#%40FarazV2ray{} ### 1770201121878
