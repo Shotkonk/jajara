@@ -245,3 +245,4 @@ vless://bfdc22f1-7e63-43f5-94dd-2befa32a0720@cd4.reata.ir:2053?security=tls&amp;
 vless://2229c53f-49b4-4bdf-8d24-b188244b04eb@curt231.ctcurt.ir:2372?type=grpc&amp;mode=gun&amp;security=tls&amp;encryption=none&amp;sni=filimo.com&amp;allowInsecure=1#Telegram:@config_proxy{} ### 1770230380363
 vless://580fb199-f2a1-40f2-b48b-da5d83521b60@85.17.145.174:443?security=reality&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.samsung.com#Telegram:@config_proxy{} ### 1770230385516
 vless://79a8e60d-9243-495b-8d11-e8a72c0f8590@94.184.17.131:2086?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Telegram:@config_proxy{} ### 1770230389918
+vless://31a6f6b5-83f7-4d41-abb6-d3e619920945@shop2.ahoohost2.top:7343?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=cafeariel.ir&amp;path=/&amp;security=none#Telegram:@config_proxy{} ### 1770230437905
