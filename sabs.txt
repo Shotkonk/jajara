@@ -413,3 +413,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.244.132:80?security=none&amp
 vless://e923cdf9-fc21-4100-8c01-a385a9e8f1b3@172.67.204.84:2086?security=none&type=ws&host=Cloutdcjvg.samancenter.com.&path=%2F%40Kingspeed_support-iran%3Fed%3D1024#@Hope_Net-join-us-on-Telegram ### 1770244778944
 vless://142e062f-475e-4484-8bd6-8386b246f366@199.232.198.133:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=vpngaming.ir&amp;type=ws&amp;sni=www.speedrun.com#@Hope_Net-join-us-on-Telegram{} ### 1770244783055
 vless://0c0870b0-a253-4861-84b6-e6ce6777e97c@85.133.197.237:9829?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=pro30afzar.com{} ### 1770246372725
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080 ### 1770246377434
