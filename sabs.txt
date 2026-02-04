@@ -297,3 +297,4 @@ vmess://eyJhZGQiOiAiY2lwLmVydGViYXRnb29zdGFyLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAi
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWpBeU5qSnJOWE42V1d0SFFWWlBlQT09Ok9ESTVRa0ZCUlRZdFFqbEJRaTAwUmc9PQ@155.117.87.123:10378#Telegram:@config_proxy{} ### 1770233798967
 vless://7e12ed8c-07cd-4f7b-806e-6562470dedf6@france4.karevpn.xyz:33503?path=%2F&amp;security=&amp;encryption=none&amp;host=speedtest.net&amp;type=ws#Telegram:@config_proxy{} ### 1770233803178
 vless://3adf6d80-658e-4bff-9c54-a53e9b8e2ab3@dns27.golden-ping.ir:37448?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#Telegram:@config_proxy ### 1770233830774
+vless://6e44b298-a091-4433-af5e-c89afd438c98@us-4.hwowst.ru:443?security=reality&encryption=none&pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#Telegram:@config_proxy ### 1770233835155
