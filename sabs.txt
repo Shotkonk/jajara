@@ -72,3 +72,4 @@ vless://934021bd-b994-4fe6-a06e-20d0ed61e314@S1.FASTSPEEDS.IR:2087?path=%2F&amp;
 vless://977fb25c-60de-4fb0-8a0d-bb04d3c912ea@lp.hamrahto.com:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hm3.mutee.com.tr&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hm3.mutee.com.tr#Telegram:@config_proxy{} ### 1770201231316
 vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@172.67.136.167:80?security=none&type=ws&path=/aa#@Hope_Net-join-us-on-Telegram ### 1770204475740
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.251.129:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770204481307
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@46.254.92.226:2096?security=tls&amp;sni=De15.SiMaNsAnAt.Ir.&amp;type=ws&amp;host=De15.SiMaNsAnAt.Ir.#@Hope_Net-join-us-on-Telegram{} ### 1770204485601
