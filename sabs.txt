@@ -415,3 +415,4 @@ vless://142e062f-475e-4484-8bd6-8386b246f366@199.232.198.133:443?path=%2F&amp;se
 vless://0c0870b0-a253-4861-84b6-e6ce6777e97c@85.133.197.237:9829?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=pro30afzar.com{} ### 1770246372725
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080 ### 1770246377434
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080{} ### 1770246381866
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316{} ### 1770246384763
