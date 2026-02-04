@@ -236,3 +236,4 @@ vless://5e2eb458-2dd4-4f94-86ab-e68776f0a75f@France2.netblocksir.ir:6556?securit
 vless://5e2eb458-2dd4-4f94-86ab-e68776f0a75f@Spain.netblocksir.ir:6556?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=speedtest.net#Telegram:@config_proxy{} ### 1770226838284
 vless://43b3cbba-e6ac-484a-9481-976a0415eab9@104.21.82.111:443?security=tls&sni=eseTsEcuRiTYLiceNse.pONoD65798.WORKErS.Dev&type=ws&host=ESetseCuRITYliceNSe.Ponod65798.worKerS.deV&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram ### 1770226845620
 vless://939b318c-4021-411f-b28c-33f89a1a49b8@185.146.173.58:8080?path=SHHPROXY%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.&amp;type=ws#@Hope_Net-join-us-on-Telegram{} ### 1770226849843
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.117:443?security=tls&amp;sni=hkg.ylks.link&amp;type=ws&amp;path=%2Fblue#@Hope_Net-join-us-on-Telegram{} ### 1770226854138
