@@ -77,3 +77,4 @@ vless://36674613-c58c-4e94-fd80-1fce492e8f0f@188.114.97.3:80?security=none&type=
 vless://b2201fe6-4781-4dcc-bacf-a57f95e2a177@104.17.148.22:2082?path=/Free#@Hope_Net-join-us-on-Telegram ### 1770204495143
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fassets&amp;security=tls&amp;encryption=none&amp;host=diprox.pages.dev&amp;type=ws&amp;sni=DiprOX.pages.DEV#%F0%9F%91%BD%5BTELEGRAM%20%22%20%40llFreak%20%5D{} ### 1770204503155
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#%F0%9F%91%BD%5BTELEGRAM%20%22%20%40llFreak%20%5D ### 1770204508131
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&insecure=0&allowInsecure=0&type=grpc#%40internet_azad2%20%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%DB%8C%D8%AF ### 1770204516476
