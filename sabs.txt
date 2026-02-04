@@ -35,5 +35,5 @@ vmess://eyJhZGQiOiAidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjog
 vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?security=reality&amp;type=raw&amp;alpn=h2&amp;sni=aws.com&amp;fp=chrome&amp;flow=xtls-rprx-vision&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;encryption=none#Telegram:@config_proxy{} ### 1770197727688
 vless://0c0870b0-a253-4861-84b6-e6ce6777e97c@85.133.197.238:9829?security=none&amp;encryption=none&amp;host=pro30afzar.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770197732690
 vless://82530859-ab97-4c56-9a97-e45425d1589f@ip2-cloud.tyryqyserver.ir:8880?security=none&encryption=none&host=domin-cloud-de.ocean-pro.top&type=httpupgrade#Telegram:@config_proxy ### 1770197761738
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.135:8880?mode=gun&amp;security=&amp;encryption=none&amp;fp=chrome&amp;type=grpc#NetAccount ### 1770200198238
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&amp;security=tls&amp;host=www.gossipglove.com&amp;type=ws&amp;sni=www.gossipglove.com#NetAccount</code> ### 1770200198238
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.135:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#NetAccount ### 1770200199182
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#NetAccount ### 1770200199182
