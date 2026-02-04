@@ -96,3 +96,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.183.147:80?security=none&typ
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.147.70:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1770206919257
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.197.95:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770206922276
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE4OC4xMTQuOTcuMyIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJiNzlhNjk1OS02ZmViLTQzYmEtYjNjNy1mMWFmYWU5ZWEzMmMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIlVrMi52bWVzcy5zaXRlLiIsICJ0bHMiOiAiIn0= ### 1770206926002
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@178.250.246.80:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&type=tcp ### 1770206938866
