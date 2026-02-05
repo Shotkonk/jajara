@@ -386,3 +386,4 @@ vless://8bf2d75b-2bfc-4aef-a73b-5ea3c6b5783e@104.17.148.22:8443?security=tls&sni
 vless://e8cf159b-c7a9-43aa-9837-e129b3b58603@188.114.99.99:2096?security=tls&amp;sni=clean.parhamtraberthos.IR.&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770258914335
 vless://6ff8c019-9abc-465a-a8cc-92cde57514d0@151.101.210.64:443?security=tls&sni=fixer.vegofox.ru&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&fp=chrome&allowInsecure=true#@Hope_Net-join-us-on-Telegram ### 1770258918014
 vless://2ad2e13c-8cb1-4666-8bfb-c42b51df2f1d@86.38.214.18:443?security=tls&amp;sni=aLi.PinobiN.iR.&amp;type=grpc&amp;serviceName=%2Fcustom_config%3Fed%3D2048&amp;fp=firefox&amp;alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram{} ### 1770258922075
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.65:443?security=tls&amp;sni=kkg.ylks.link&amp;type=ws&amp;path=%2Fblue#@Hope_Net-join-us-on-Telegram{} ### 1770258947294
