@@ -365,3 +365,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=realit
 vless://4d2d4312-5305-40ce-b8e4-a193882a8609@edge01.82.ir.cdn.ir.e4.darroos.com:1616?security=none&amp;encryption=none&amp;host=playstation.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770259022553
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.25.68.32:80?type=ws&amp;host=us3.rtacg.com&amp;path=%2F#@Hope_Net-join-us-on-Telegram{} ### 1770266089972
 vless://06430296-e070-4048-ba38-3662c09e52bc@162.159.3.239:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;authority=&amp;type=grpc&amp;serviceName=&amp;sni=finland.hiytocloud.ir#@Hope_Net-join-us-on-Telegram{} ### 1770266093826
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@162.159.153.2:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=%2FTELEGRAM%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram ### 1770266097871
