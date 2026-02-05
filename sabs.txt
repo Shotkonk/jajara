@@ -375,3 +375,4 @@ vless://3aea5f27-bafd-4cef-bf43-4a68b0f65926@ns1.kernel-mirrors.org:443?path=%2F
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.89.209:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770274015066
 vless://-----DIGIV2RAY----@188.114.97.2:2095?Telegram=@V2RayTz,@V2RayTz&path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram ### 1770274023411
 vless://b9430690-525b-4774-9efa-42f163d3fe5b@104.19.8.222:8880?path=%2F&security=none&encryption=none&host=free.game-mobileberooz.ir&type=ws#@Hope_Net-join-us-on-Telegram ### 1770274027534
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.178.253:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770274031741
